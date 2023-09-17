@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "cts_project",
+    "slug": "cts_project",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
